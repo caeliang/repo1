@@ -1,0 +1,7 @@
+﻿  FileName.cpp
+C:\Users\tasne\OneDrive\Desktop\ranimvs\proje\proje\FileName.cpp(92,10): warning C4101: 'in1': unreferenced local variable
+C:\Users\tasne\OneDrive\Desktop\ranimvs\proje\proje\FileName.cpp(440,6): warning C4101: 'studentid': unreferenced local variable
+C:\Users\tasne\OneDrive\Desktop\ranimvs\proje\proje\FileName.cpp(556,3): warning C4551: function call missing argument list
+C:\Users\tasne\OneDrive\Desktop\ranimvs\proje\proje\FileName.cpp(157): warning C4715: 'enter': not all control paths return a value
+C:\Users\tasne\OneDrive\Desktop\ranimvs\proje\proje\FileName.cpp(1097): warning C4715: 'operation': not all control paths return a value
+  proje.vcxproj -> C:\Users\tasne\OneDrive\Desktop\ranimvs\proje\x64\Debug\proje.exe
